@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 
-class Days extends Component {
+class Grid extends Component {
 
   render() {
     // const days = [];
@@ -15,4 +15,4 @@ class Days extends Component {
   }
 };
 
-export default Days;
+export default Grid;

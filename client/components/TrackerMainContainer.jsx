@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
-import Days from './Days.jsx';
+import Grid from './Grid.jsx';
 
 class TrackerMainContainer extends Component {
 
   render() {
     return (
       <div>
-        <Days></Days>
+        <Grid></Grid>
       </div>
     )
   }
