@@ -1,0 +1,165 @@
+{
+  "currentExercises": [
+    {
+      "name": "Bench Press",
+      "workoutId": "100",
+      "starting1RMWeight": 180,
+      "currentRepWeight": 225
+    },
+    {
+      "name": "Front Squat",
+      "workoutId": "200",
+      "starting1RMWeight": 225,
+      "currentRepWeight": 250
+    },
+    {
+      "name": "Tricep Pulldown",
+      "workoutId": "500",
+      "starting1RMWeight": 50,
+      "currentRepWeight": 40 
+    }
+  ],
+
+  "workoutDays": [
+    {
+      "date": "01012021",
+      "exercises": [
+        {
+          "workoutId": "100",
+          "dailyWeight": 180,
+          "setData": [
+            {
+              "setCount": 1,
+              "setWeight": 180,
+              "repCount": 5
+            },
+            {
+              "setCount": 2,
+              "setWeight": 180,
+              "repCount": 5
+            },
+            {
+              "setCount": 3,
+              "setWeight": 180,
+              "repCount": 7
+            }
+          ]
+        },
+        {
+          "workoutId": "200",
+          "dailyWeight": 200,
+          "setData": [
+            {
+              "setCount": 1,
+              "setWeight": 200,
+              "repCount": 5
+            },
+            {
+              "setCount": 2,
+              "setWeight": 200,
+              "repCount": 5
+            },
+            {
+              "setCount": 3,
+              "setWeight": 200,
+              "repCount": 7
+            }
+          ]
+        },
+        {
+          "workoutId": "500",
+          "dailyWeight": 20,
+          "setData": [
+            {
+              "setCount": 1,
+              "setWeight": 20,
+              "repCount": 15
+            },
+            {
+              "setCount": 2,
+              "setWeight": 20,
+              "repCount": 15
+            },
+            {
+              "setCount": 3,
+              "setWeight": 20,
+              "repCount": 10 
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "01032021",
+      "exercises": [
+        {
+          "workoutId": "100",
+          "dailyWeight": 185,
+          "setData": [
+            {
+              "setCount": 1,
+              "setWeight": 185,
+              "repCount": 5
+            },
+            {
+              "setCount": 2,
+              "setWeight": 185,
+              "repCount": 5
+            },
+            {
+              "setCount": 3,
+              "setWeight": 185,
+              "repCount": 5
+            }
+          ]
+        },
+        {
+          "workoutId": "200",
+          "dailyWeight": 205,
+          "setData": [
+            {
+              "setCount": 1,
+              "setWeight": 205,
+              "repCount": 5
+            },
+            {
+              "setCount": 2,
+              "setWeight": 205,
+              "repCount": 5
+            },
+            {
+              "setCount": 3,
+              "setWeight": 205,
+              "repCount": 7
+            }
+          ]
+        },
+        {
+          "workoutId": "500",
+          "dailyWeight": 22.5,
+          "setData": [
+            {
+              "setCount": 1,
+              "setWeight": 22.5,
+              "repCount": 15
+            },
+            {
+              "setCount": 2,
+              "setWeight": 22.5,
+              "repCount": 15
+            },
+            {
+              "setCount": 3,
+              "setWeight": 22.5,
+              "repCount": 10 
+            }
+          ]
+        }
+      ]
+    }
+
+
+
+    
+  ]  
+}
